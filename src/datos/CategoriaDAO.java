@@ -1,5 +1,6 @@
 
 package datos;
+import database.Conexion;
 import datos.interfaces.CrudSimpleInterface;
 import entidades.Categoria;
 import java.util.List;
