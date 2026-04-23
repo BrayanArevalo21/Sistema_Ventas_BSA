@@ -4,12 +4,9 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/VIGIASTECH/Desktop/trabajo/Sistema_Ventas_BSA/src/entidades/Categoria.java</file>
-<<<<<<< HEAD
-            <file>file:/C:/Users/VIGIASTECH/Desktop/trabajo/Sistema_Ventas_BSA/src/datos/CategoriaDAO.java</file>
-            <file>file:/C:/Users/VIGIASTECH/Desktop/trabajo/Sistema_Ventas_BSA/src/datos/interfaces/CrudSimpleInterface.java</file>
-=======
             <file>file:/C:/Users/VIGIASTECH/Desktop/trabajo/Sistema_Ventas_BSA/src/database/Conexion.java</file>
->>>>>>> feature/datos-CategoriaDao-Continuacion
+            <file>file:/C:/Users/VIGIASTECH/Desktop/trabajo/Sistema_Ventas_BSA/src/negocio/CategoriaControl.java</file>
+            <file>file:/C:/Users/VIGIASTECH/Desktop/trabajo/Sistema_Ventas_BSA/src/datos/CategoriaDAO.java</file>
         </group>
     </open-files>
 </project-private>
